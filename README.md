@@ -9,7 +9,7 @@ I'm a web developer skilled in HTML, CSS, JavaScript, Express.js, Node.js, EJS, 
 - 💬 Ask me about web development or any tech-related stuff.
 - 📫 How to reach me:📧shivanipimpalshende02@gmail.con | 💼 [LinkedIn](https://www.linkedin.com/in/shivani-pimpalshende-0b3497278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to travel and explore new places.
+  
 
 ## Skills
 
